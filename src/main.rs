@@ -1,3 +1,4 @@
+mod boundary;
 
 use std::{f32::consts::PI, ops::Range, time::Duration};
 use bevy::{
